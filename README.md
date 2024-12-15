@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **Mphasis**
+- 🔭 I’m currently working at **FedEx**
 
-- 🌱 I’m currently learning **React,Node**
+- 🌱 I’m currently learning **Spring Boot,Azure**
 
 - 💬 Ask me about **Javascript,Java,Python**
 
-- 📫 How to reach me **singhnilesh516@gmail.com**
+- 📫 How to reach me **nileshkrsingh97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
